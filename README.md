@@ -1,6 +1,6 @@
 ## Project Overview
-1.The Bank Account Management System is a console-based Python application developed using Object-Oriented Programming (OOP) concepts. It allows users to create    savings accounts, authenticate existing accounts, deposit and withdraw money, and check their available balance.
-2.The project demonstrates the practical implementation of Python classes, objects, abstraction, inheritance, and dictionary-based data management.
+The Bank Account Management System is a console-based Python application developed using Object-Oriented Programming (OOP) concepts. It allows users to create    savings accounts, authenticate existing accounts, deposit and withdraw money, and check their available balance.
+The project demonstrates the practical implementation of Python classes, objects, abstraction, inheritance, and dictionary-based data management.
 
 
 ## Learning Outcomes
